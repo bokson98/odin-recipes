@@ -1,0 +1,26 @@
+#title{
+    background-color: blueviolet;
+    color:black;
+    font-size:36px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+#suf{
+    background-color: yellow;
+    color:black;
+    font-size: 25px;
+    font-family: "Times New Roman";
+}
+#spaBolo{
+    background-color: orange;
+    color: black;
+    font-size: 25px;
+    font-family: sans-serif;
+
+}
+#banSp{
+    background-color: brown;
+    color:white;
+    font-size:25px;
+    font-family: Helvetica;
+}
